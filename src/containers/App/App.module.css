@@ -1,0 +1,10 @@
+.Button {
+    width: 200px;
+    margin: 0 auto;
+    display:block;
+  }
+
+  .Red {
+      color:red;
+      font-weight: 500;
+  }
